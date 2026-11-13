@@ -1,290 +1,108 @@
 {
- "vast": {
-  "file": "vast.mp3",
-  "voice": "af_heart"
- },
- "plentiful": {
-  "file": "plentiful.mp3",
-  "voice": "am_michael"
- },
- "granted": {
-  "file": "granted.mp3",
-  "voice": "af_heart"
- },
- "take it for granted": {
-  "file": "take-it-for-granted.mp3",
-  "voice": "am_michael"
- },
- "molecules": {
-  "file": "molecules.mp3",
-  "voice": "af_heart"
- },
- "estimated": {
-  "file": "estimated.mp3",
-  "voice": "am_michael"
- },
- "deposits": {
-  "file": "deposits.mp3",
-  "voice": "af_heart"
- },
- "entire": {
-  "file": "entire.mp3",
-  "voice": "am_michael"
- },
- "the entire world's needs": {
-  "file": "the-entire-world-s-needs.mp3",
-  "voice": "af_heart"
- },
- "concentration": {
-  "file": "concentration.mp3",
-  "voice": "am_michael"
- },
- "fluid": {
-  "file": "fluid.mp3",
-  "voice": "af_heart"
- },
- "commercial applications": {
-  "file": "commercial-applications.mp3",
-  "voice": "am_michael"
- },
- "pulp": {
-  "file": "pulp.mp3",
-  "voice": "af_heart"
- },
- "fabric": {
-  "file": "fabric.mp3",
-  "voice": "am_michael"
- },
- "detergents": {
-  "file": "detergents.mp3",
-  "voice": "af_heart"
- },
- "corner": {
-  "file": "corner.mp3",
-  "voice": "am_michael"
- },
- "superstition": {
-  "file": "superstition.mp3",
-  "voice": "af_heart"
- },
- "folklore": {
-  "file": "folklore.mp3",
-  "voice": "am_michael"
- },
- "warfare": {
-  "file": "warfare.mp3",
-  "voice": "af_heart"
- },
- "currency": {
-  "file": "currency.mp3",
-  "voice": "am_michael"
- },
- "portable commodity": {
-  "file": "portable-commodity.mp3",
-  "voice": "af_heart"
- },
- "cornerstone": {
-  "file": "cornerstone.mp3",
-  "voice": "am_michael"
- },
- "conjectured": {
-  "file": "conjectured.mp3",
-  "voice": "af_heart"
- },
- "the edges": {
-  "file": "the-edges.mp3",
-  "voice": "am_michael"
- },
- "city's precious": {
-  "file": "city-s-precious.mp3",
-  "voice": "af_heart"
- },
- "pressed": {
-  "file": "pressed.mp3",
-  "voice": "am_michael"
- },
- "nomads": {
-  "file": "nomads.mp3",
-  "voice": "af_heart"
- },
- "legionnaires": {
-  "file": "legionnaires.mp3",
-  "voice": "am_michael"
- },
- "salarium": {
-  "file": "salarium.mp3",
-  "voice": "af_heart"
- },
- "merchants": {
-  "file": "merchants.mp3",
-  "voice": "am_michael"
- },
- "gabelle": {
-  "file": "gabelle.mp3",
-  "voice": "af_heart"
- },
- "finance": {
-  "file": "finance.mp3",
-  "voice": "am_michael"
- },
- "conquest": {
-  "file": "conquest.mp3",
-  "voice": "af_heart"
- },
- "outrage over": {
-  "file": "outrage-over.mp3",
-  "voice": "am_michael"
- },
- "revolutionaries": {
-  "file": "revolutionaries.mp3",
-  "voice": "af_heart"
- },
- "eliminated": {
-  "file": "eliminated.mp3",
-  "voice": "am_michael"
- },
- "re-established": {
-  "file": "re-established.mp3",
-  "voice": "af_heart"
- },
- "marvel": {
-  "file": "marvel.mp3",
-  "voice": "am_michael"
- },
- "ditch": {
-  "file": "ditch.mp3",
-  "voice": "af_heart"
- },
- "revenues": {
-  "file": "revenues.mp3",
-  "voice": "am_michael"
- },
- "monarchy": {
-  "file": "monarchy.mp3",
-  "voice": "af_heart"
- },
- "bustling": {
-  "file": "bustling.mp3",
-  "voice": "am_michael"
- },
- "crystal": {
-  "file": "crystal.mp3",
-  "voice": "af_heart"
- },
- "earl": {
-  "file": "earl.mp3",
-  "voice": "am_michael"
- },
- "arrested": {
-  "file": "arrested.mp3",
-  "voice": "af_heart"
- },
- "smuggling": {
-  "file": "smuggling.mp3",
-  "voice": "am_michael"
- },
- "protesting": {
-  "file": "protesting.mp3",
-  "voice": "af_heart"
- },
- "march": {
-  "file": "march.mp3",
-  "voice": "am_michael"
- },
- "worshippers": {
-  "file": "worshippers.mp3",
-  "voice": "af_heart"
- },
- "consecrating": {
-  "file": "consecrating.mp3",
-  "voice": "am_michael"
- },
- "rituals": {
-  "file": "rituals.mp3",
-  "voice": "af_heart"
- },
- "repels": {
-  "file": "repels.mp3",
-  "voice": "am_michael"
- },
- "customary": {
-  "file": "customary.mp3",
-  "voice": "af_heart"
- },
- "funeral": {
-  "file": "funeral.mp3",
-  "voice": "am_michael"
- },
- "clinging": {
-  "file": "clinging.mp3",
-  "voice": "af_heart"
- },
- "purify": {
-  "file": "purify.mp3",
-  "voice": "am_michael"
- },
- "elaborate": {
-  "file": "elaborate.mp3",
-  "voice": "af_heart"
- },
- "malevolent": {
-  "file": "malevolent.mp3",
-  "voice": "am_michael"
- },
- "tribes": {
-  "file": "tribes.mp3",
-  "voice": "af_heart"
- },
- "restrictions": {
-  "file": "restrictions.mp3",
-  "voice": "am_michael"
- },
- "permitted": {
-  "file": "permitted.mp3",
-  "voice": "af_heart"
- },
- "punished mankind": {
-  "file": "punished-mankind.mp3",
-  "voice": "am_michael"
- },
- "bravery": {
-  "file": "bravery.mp3",
-  "voice": "af_heart"
- },
- "bravery to harvest": {
-  "file": "bravery-to-harvest.mp3",
-  "voice": "am_michael"
- },
- "salt endures": {
-  "file": "salt-endures.mp3",
-  "voice": "af_heart"
- },
- "potent symbol": {
-  "file": "potent-symbol.mp3",
-  "voice": "am_michael"
- },
- "deficiency": {
-  "file": "deficiency.mp3",
-  "voice": "af_heart"
- },
- "strained": {
-  "file": "strained.mp3",
-  "voice": "am_michael"
- },
- "troops": {
-  "file": "troops.mp3",
-  "voice": "af_heart"
- },
- "inadequate": {
-  "file": "inadequate.mp3",
-  "voice": "am_michael"
- },
- "resistance to": {
-  "file": "resistance-to.mp3",
-  "voice": "af_heart"
- },
- "resistance to disease": {
-  "file": "resistance-to-disease.mp3",
-  "voice": "am_michael"
- }
+ "files": [
+  "arrested.mp3",
+  "authorities.mp3",
+  "awareness.mp3",
+  "bravery-to-harvest.mp3",
+  "bravery.mp3",
+  "bustling.mp3",
+  "city-s-precious.mp3",
+  "clinging.mp3",
+  "collision.mp3",
+  "commercial-applications.mp3",
+  "commuter.mp3",
+  "concentration.mp3",
+  "conjectured.mp3",
+  "conquest.mp3",
+  "consecrating.mp3",
+  "corner.mp3",
+  "cornerstone.mp3",
+  "crystal.mp3",
+  "currency.mp3",
+  "customary.mp3",
+  "cycle-lane.mp3",
+  "cyclist.mp3",
+  "deficiency.mp3",
+  "deposits.mp3",
+  "detergents.mp3",
+  "ditch.mp3",
+  "earl.mp3",
+  "elaborate.mp3",
+  "eliminated.mp3",
+  "enforce-regulations.mp3",
+  "entire.mp3",
+  "estimated.mp3",
+  "fabric.mp3",
+  "fatal.mp3",
+  "finance.mp3",
+  "fluid.mp3",
+  "folklore.mp3",
+  "forced-to.mp3",
+  "funeral.mp3",
+  "gabelle.mp3",
+  "granted.mp3",
+  "impose-heavy-fines-on.mp3",
+  "impose.mp3",
+  "inadequate.mp3",
+  "infrastructure.mp3",
+  "lane-divider.mp3",
+  "legionnaires.mp3",
+  "malevolent.mp3",
+  "march.mp3",
+  "marvel.mp3",
+  "merchants.mp3",
+  "molecules.mp3",
+  "monarchy.mp3",
+  "motorbike-rider.mp3",
+  "motorist.mp3",
+  "nomads.mp3",
+  "outrage-over.mp3",
+  "overcrowded-roads.mp3",
+  "pedestrian.mp3",
+  "permitted.mp3",
+  "physical-barrier.mp3",
+  "plentiful.mp3",
+  "portable-commodity.mp3",
+  "potent-symbol.mp3",
+  "pressed.mp3",
+  "protesting.mp3",
+  "public-awareness-campaign.mp3",
+  "public-transport.mp3",
+  "pulp.mp3",
+  "punished-mankind.mp3",
+  "purify.mp3",
+  "re-established.mp3",
+  "reckless-driving.mp3",
+  "repels.mp3",
+  "resistance-to-disease.mp3",
+  "resistance-to.mp3",
+  "restrictions.mp3",
+  "revenues.mp3",
+  "revolutionaries.mp3",
+  "rituals.mp3",
+  "road-accident.mp3",
+  "road-safety.mp3",
+  "road-user.mp3",
+  "salarium.mp3",
+  "salt-endures.mp3",
+  "smuggling.mp3",
+  "speed-limit.mp3",
+  "speeding.mp3",
+  "strained.mp3",
+  "suffer-serious-injuries.mp3",
+  "suffer.mp3",
+  "superstition.mp3",
+  "take-it-for-granted.mp3",
+  "the-edges.mp3",
+  "the-entire-world-s-needs.mp3",
+  "traffic-congestion.mp3",
+  "tribes.mp3",
+  "troops.mp3",
+  "urban-area.mp3",
+  "vast.mp3",
+  "vehicle.mp3",
+  "vulnerable-to.mp3",
+  "warfare.mp3",
+  "worshippers.mp3"
+ ]
 }
