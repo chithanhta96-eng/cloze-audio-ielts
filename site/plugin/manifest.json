@@ -1,0 +1,22 @@
+{
+  "manifestVersion": 1,
+  "id": "cloze_audio_dev_local",
+  "name": "Cloze Audio DEV",
+  "author": "Tony",
+  "repoUrl": "https://github.com/chithanhta96-eng/cloze-audio-ielts",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "theme": [],
+  "enableOnMobile": false,
+  "description": "Attach mp3 audio to cloze flashcards, remove old audio links, color card fields.",
+  "requestNative": false,
+  "requiredScopes": [
+    {
+      "type": "All",
+      "level": "ReadCreateModify"
+    }
+  ]
+}
